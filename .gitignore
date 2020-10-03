@@ -1,3 +1,5 @@
 .DS_Store
 build-dir
-sources
+sources/OpenCLVectorAdd_Template
+sources/dataset_generator
+sources/OpenCLVectorAdd/
