@@ -71,7 +71,7 @@ The following will compile the template file that you will modify to implement v
 ~~~
 cd sources 
 make template 
-make daataset_generator 
+make dataset_generator 
 ~~~
 
 You can generate input data with
